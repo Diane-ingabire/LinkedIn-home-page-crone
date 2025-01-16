@@ -16,7 +16,7 @@ header{
     left: 0;
     right: 0;
     height: 60px;
-    background-color:slategrey;
+    background-color: #616161;
     padding-left: 160px;
     padding-right: 160px;
     display:flex;
@@ -278,7 +278,7 @@ background-color:#616161;
 }
 .middle-main-1{
     border-radius:20px;
-    background-color:darkgrey;
+    background-color:#616161;
     margin-bottom: 10px;
 }
 .post-1{
@@ -339,13 +339,13 @@ background-color:#616161;
     color:grey;
 }
 .right-main{
-    width: 200px;
     margin-left:25px;
     display:flex;
     flex-direction:column;
 }
 .right-main-1{
     height: 900px;
+    width: 220px;
     background-color:#616161;
     border: 1px solid rgba(199,192,192,0.5);
     border-radius:10px;
