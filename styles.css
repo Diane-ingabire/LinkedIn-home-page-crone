@@ -116,7 +116,7 @@ opacity: 1;
 .notification-alert{
     position: absolute;
     right:470px;
-    top:12px;
+    top:17px;
     background-color:red;
     border-radius: 30px;
     padding: 0px 4px;
