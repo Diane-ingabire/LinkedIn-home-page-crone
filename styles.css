@@ -115,12 +115,14 @@ opacity: 1;
 }
 .notification-alert{
     position: absolute;
-    right:450px;
-    top:-1px;
+    right:470px;
+    top:12px;
     background-color:red;
+    border-radius: 30px;
     padding: 0px 4px;
     color:white;
     opacity: 1;
+    font-size: 11px;
 }
 label{
     font-size: 11px;
